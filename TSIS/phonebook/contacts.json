@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Shon",
+        "phones": [
+            "+77077170105"
+        ],
+        "email": "zhankinshon@gmail.com",
+        "birthday": "2007-11-15",
+        "group": "B1"
+    },
+    {
+        "name": "Damili",
+        "phones": [
+            "+77077170106"
+        ],
+        "email": "zhankina@gmail.com",
+        "birthday": "2008-03-31",
+        "group": "B1"
+    }
+]
